@@ -1,0 +1,19 @@
+ul {
+    text-align: left
+}
+
+.total {
+    font-size: 3em;
+    font-weight: bold;
+    color: #23d160;
+}
+
+.avg {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.card {
+    padding: 10px;
+    margin: 10px;
+}
